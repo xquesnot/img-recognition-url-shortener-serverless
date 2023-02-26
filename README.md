@@ -1,6 +1,4 @@
-# img-recognition-url-shortener-serverless
-IMAGE RECOGNITION WITH URL SHORTENER USING SERVERLESS
-
+# IMAGE RECOGNITION WITH URL SHORTENER USING SERVERLESS
 
 This project provides an interface allowing to download an image then to analyze its contents and to create a reduced link allowing its exploitation.
 

@@ -23,3 +23,14 @@ This project provides an interface allowing to download an image then to analyze
 ### Schema Architecture :
 
 ### AWS Services Used :
+
+
+
+## Authors
+
+- [@xquesnot](https://github.com/xquesnot)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)

@@ -5,7 +5,6 @@
 This project provides an interface allowing to download an image 
 
 ### EVOLUTION
-- Image analyze contents (Classification with TensorFlow) 
 - Create a reduced link allowing its exploitation.
 
 ### Linked with two repos :
@@ -19,6 +18,7 @@ This project provides an interface allowing to download an image
 - SignUp
 - List Images
 - Add Images
+- Image analyze contents (Classification with TensorFlow) 
 
 ## Second repo : back-end api using aws services and serverless framework.
 
